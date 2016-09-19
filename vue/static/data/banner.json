@@ -1,0 +1,15 @@
+{
+  "code": 200,
+  "message": "获取成功",
+  "data": [
+    {
+      "content": "../assets/img/1.jpg"
+    },
+    {
+      "content": "../assets/img/2.jpg"
+    },
+    {
+      "content": "../assets/img/3.jpg"
+    }
+  ]
+}
